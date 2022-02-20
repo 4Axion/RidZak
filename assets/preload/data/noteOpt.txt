@@ -1,0 +1,13 @@
+GOLDEN NOTES
+flashtime:0.8
+disable input:2
+VAMP NOTES
+drain damage:0.08
+drain time:10
+drainAfterSound?:false
+drainSoundName:SuckNoise
+SAD NOTES
+DissapearTime:5
+FadeOpacity:0.2
+fadeintime:0.1
+sound:sadSwoosh

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="syntech PH2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN PH 20000" x="2" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20001" x="385" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20002" x="768" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20003" x="1151" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20004" x="1534" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20005" x="1917" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20006" x="1917" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20007" x="1917" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20008" x="1917" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20009" x="1917" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20010" x="1917" y="2" width="381" height="600"/>
+	<SubTexture name="DOWN PH 20011" x="1917" y="2" width="381" height="600"/>
+	<SubTexture name="EXPLODE AHH!!0000" x="2300" y="2" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0001" x="3101" y="2" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0002" x="3902" y="2" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0003" x="4703" y="2" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0004" x="5504" y="2" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0005" x="6305" y="2" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0006" x="7106" y="2" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0007" x="2" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0008" x="803" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0009" x="1604" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0010" x="2405" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0011" x="3206" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0012" x="4007" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0013" x="4808" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0014" x="5609" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0015" x="6410" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0016" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0017" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0018" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0019" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0020" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0021" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0022" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0023" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="EXPLODE AHH!!0024" x="7211" y="898" width="799" height="894"/>
+	<SubTexture name="IDLE PH 20000" x="2" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20001" x="2" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20002" x="2" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20003" x="406" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20004" x="810" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20005" x="1214" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20006" x="1618" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20007" x="2022" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20008" x="2426" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20009" x="2830" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20010" x="3234" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20011" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20012" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20013" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20014" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20015" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20016" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20017" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20018" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20019" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20020" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20021" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20022" x="3638" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20023" x="4042" y="1794" width="402" height="679"/>
+	<SubTexture name="IDLE PH 20024" x="4042" y="1794" width="402" height="679"/>
+	<SubTexture name="LEFT PH 20000" x="4446" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20001" x="5019" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20002" x="5592" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20003" x="6165" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20004" x="6738" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20005" x="7311" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20006" x="7311" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20007" x="7311" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20008" x="7311" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20009" x="7311" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20010" x="7311" y="1794" width="571" height="679"/>
+	<SubTexture name="LEFT PH 20011" x="7311" y="1794" width="571" height="679"/>
+	<SubTexture name="RIGHT PH 20000" x="2" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20001" x="627" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20002" x="1252" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20003" x="1877" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20004" x="2502" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20005" x="3127" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20006" x="3752" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20007" x="4377" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20008" x="4377" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20009" x="4377" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20010" x="4377" y="2475" width="623" height="664"/>
+	<SubTexture name="RIGHT PH 20011" x="4377" y="2475" width="623" height="664"/>
+	<SubTexture name="UP PH 20000" x="5002" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20001" x="5385" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20002" x="5768" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20003" x="6151" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20004" x="6534" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20005" x="6917" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20006" x="6917" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20007" x="6917" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20008" x="6917" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20009" x="6917" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20010" x="6917" y="2475" width="381" height="702"/>
+	<SubTexture name="UP PH 20011" x="6917" y="2475" width="381" height="702"/>
+</TextureAtlas>

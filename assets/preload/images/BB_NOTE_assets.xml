@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BB assets.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="147" height="185"/>
+	<SubTexture name="blue hit0000" x="152" y="0" width="424" height="459"/>
+	<SubTexture name="blue hit0001" x="581" y="0" width="230" height="265" frameX="-97" frameY="-97" frameWidth="424" frameHeight="459"/>
+	<SubTexture name="green0000" x="816" y="0" width="193" height="186"/>
+	<SubTexture name="green hit0000" x="1014" y="0" width="423" height="459"/>
+	<SubTexture name="green hit0001" x="1442" y="0" width="229" height="265" frameX="-97" frameY="-87" frameWidth="423" frameHeight="459"/>
+	<SubTexture name="purple0000" x="1676" y="0" width="186" height="146"/>
+	<SubTexture name="purple hit0000" x="0" y="464" width="461" height="422"/>
+	<SubTexture name="purple hit0001" x="466" y="464" width="267" height="228" frameX="-85" frameY="-104" frameWidth="461" frameHeight="422"/>
+	<SubTexture name="red0000" x="738" y="464" width="185" height="147"/>
+	<SubTexture name="red hit0000" x="928" y="464" width="461" height="421"/>
+	<SubTexture name="red hit0001" x="1394" y="464" width="267" height="227" frameX="-89" frameY="-97" frameWidth="461" frameHeight="421"/>
+	<SubTexture name="blue hold end0000" x="5" y="5" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="60" y="5" width="50" height="44"/>
+	<SubTexture name="green hold end0000" x="5" y="5" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="60" y="5" width="50" height="44"/>
+	<SubTexture name="pruple end hold0000" x="5" y="5" width="50" height="64"/>
+	<SubTexture name="purple hold piece0000" x="60" y="5" width="50" height="44"/>
+	<SubTexture name="red hold end0000" x="5" y="5" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="60" y="5" width="50" height="44"/>
+</TextureAtlas>

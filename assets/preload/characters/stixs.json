@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "StixIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "StixRightNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "StixDownNote",
+			"indices": []
+		},
+		{
+			"offsets": [
+				46,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "StixLeftNote"
+		},
+		{
+			"offsets": [
+				33,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "StixUpNote"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Stixs",
+	"position": [
+		-418,
+		-13
+	],
+	"healthicon": "stixs",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		255,
+		60
+	],
+	"camera_position": [
+		500,
+		340
+	],
+	"sing_duration": 4,
+	"scale": 0.35
+}

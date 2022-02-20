@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "POG",
+			"indices": [],
+			"name": "Pog"
+		},
+		{
+			"offsets": [
+				9,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RichardLeftNote"
+		},
+		{
+			"offsets": [
+				-2,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RichardRightNote"
+		},
+		{
+			"offsets": [
+				10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RichardDownNote"
+		},
+		{
+			"offsets": [
+				-4,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RichardUpNote"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RichardIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Richard",
+	"position": [
+		-450,
+		50
+	],
+	"healthicon": "richard",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		195,
+		120
+	],
+	"camera_position": [
+		580,
+		380
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

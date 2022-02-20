@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SADNotes.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="221" height="259" frameX="-7" frameY="-10" frameWidth="228" frameHeight="269"/>
+	<SubTexture name="blue0001" x="221" y="0" width="221" height="266" frameX="-7" frameY="-3" frameWidth="228" frameHeight="269"/>
+	<SubTexture name="blue0002" x="442" y="0" width="228" height="269"/>
+	<SubTexture name="blue hold end0000" x="670" y="0" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="720" y="0" width="50" height="44"/>
+	<SubTexture name="green0000" x="0" y="0" width="221" height="259" frameX="-7" frameY="-10" frameWidth="228" frameHeight="269"/>
+	<SubTexture name="green0001" x="221" y="0" width="221" height="266" frameX="-7" frameY="-3" frameWidth="228" frameHeight="269"/>
+	<SubTexture name="green0002" x="442" y="0" width="228" height="269"/>
+	<SubTexture name="green hold end0000" x="770" y="0" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="820" y="0" width="50" height="44"/>
+	<SubTexture name="pruple end hold0000" x="870" y="0" width="50" height="64"/>
+	<SubTexture name="purple0000" x="0" y="0" width="221" height="259" frameX="-7" frameY="-10" frameWidth="228" frameHeight="269"/>
+	<SubTexture name="purple0001" x="221" y="0" width="221" height="266" frameX="-7" frameY="-3" frameWidth="228" frameHeight="269"/>
+	<SubTexture name="purple0002" x="442" y="0" width="228" height="269"/>
+	<SubTexture name="purple hold piece0000" x="920" y="0" width="50" height="44"/>
+	<SubTexture name="red0000" x="0" y="0" width="221" height="259" frameX="-7" frameY="-10" frameWidth="228" frameHeight="269"/>
+	<SubTexture name="red0001" x="221" y="0" width="221" height="266" frameX="-7" frameY="-3" frameWidth="228" frameHeight="269"/>
+	<SubTexture name="red0002" x="442" y="0" width="228" height="269"/>
+	<SubTexture name="red hold end0000" x="970" y="0" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="0" y="269" width="50" height="44"/>
+</TextureAtlas>

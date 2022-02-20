@@ -1,0 +1,8 @@
+:RidZak_swapNormal:-1: Hey! Who the hell do you think you are snooping around here at these hours? 
+:Anders_Normal:-1: Greetings, I'm Agent Anders, I've been contracted to do some business around here.
+:RidZak_swapNormal:-1: I think it's safe to assume that you've stumbled into the wrong club bud, you'll have to wait until sunrise if you want to talk to the big man. 
+:Anders_Normal:-1: Although I'm not all too familiar with your universe, I've heard word of undercover drug dealing in your city.
+:RidZak_swapNormal:-1: And what brings you here of all places? 
+:Anders_Normal:-1: I'm here because I'm chasing a solid lead for the potential mastermind behind all of this. 
+:RidZak_swapNormal:-1: You've got the wrong guy. I suggest you leave now before you have to get escorted out, or even worse, you get your ass handed to you. 
+:Anders_Normal:-1: This is your only warning. If you don't stay out of my line of sight, it's fair game in the name of business.

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				60,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftSing"
+		},
+		{
+			"offsets": [
+				39,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpSing"
+		},
+		{
+			"offsets": [
+				62,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LeftNote"
+		},
+		{
+			"offsets": [
+				50,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DownNote"
+		},
+		{
+			"offsets": [
+				27,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UpNote"
+		},
+		{
+			"offsets": [
+				-10,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RightNote"
+		},
+		{
+			"offsets": [
+				66,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightSing"
+		},
+		{
+			"offsets": [
+				-12,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownSing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				22
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "DeathStart",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				1
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "DeathWait",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				75
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "DeathSelect",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ClassicRidZak",
+	"position": [
+		80,
+		250
+	],
+	"healthicon": "ridzak",
+	"flip_x": true,
+	"healthbar_colors": [
+		213,
+		0,
+		60
+	],
+	"camera_position": [
+		190,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

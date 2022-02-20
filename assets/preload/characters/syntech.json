@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				-29,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				125,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-73,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-22,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-25,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "error",
+			"indices": [],
+			"name": "ERROR"
+		},
+		{
+			"offsets": [
+				-19,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "glitch",
+			"indices": [],
+			"name": "AUUGH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/syntech_PH1",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "syntech",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		200
+	],
+	"camera_position": [
+		40,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

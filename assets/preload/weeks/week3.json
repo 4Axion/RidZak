@@ -1,0 +1,43 @@
+{
+	"storyName": "gayass",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Vampiric",
+			"eerie",
+			[
+				72,
+				110,
+				215
+			]
+		],
+		[
+			"Bloodsucker",
+			"eerie",
+			[
+				72,
+				110,
+				215
+			]
+		],
+		[
+			"MAD",
+			"eerie-mad",
+			[
+				32,
+				0,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4"
+}

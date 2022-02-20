@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "city",
+		"player1": "bf",
+		"player2": "ridzak",
+		"player3": null,
+		"events": [
+			[
+				51891.8918918919,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"your mother"
+					]
+				]
+			],
+			[
+				51896.1148648648,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"your mother"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 148,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ouch"
+	}
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stixs.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="StixDownNote0000" x="0" y="0" width="1414" height="961" frameX="-14" frameY="-51" frameWidth="1457" frameHeight="1048"/>
+	<SubTexture name="StixDownNote0001" x="0" y="0" width="1414" height="961" frameX="-14" frameY="-51" frameWidth="1457" frameHeight="1048"/>
+	<SubTexture name="StixDownNote0002" x="1414" y="0" width="1457" height="1048"/>
+	<SubTexture name="StixDownNote0003" x="1414" y="0" width="1457" height="1048"/>
+	<SubTexture name="StixDownNote0004" x="1414" y="0" width="1457" height="1048"/>
+	<SubTexture name="StixDownNote0005" x="1414" y="0" width="1457" height="1048"/>
+	<SubTexture name="StixIdle0000" x="2871" y="0" width="1422" height="1219" frameX="0" frameY="0" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0001" x="2871" y="0" width="1422" height="1219" frameX="0" frameY="0" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0002" x="4293" y="0" width="1385" height="1199" frameX="-10" frameY="-23" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0003" x="4293" y="0" width="1385" height="1199" frameX="-10" frameY="-23" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0004" x="5678" y="0" width="1351" height="1199" frameX="-28" frameY="-25" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0005" x="5678" y="0" width="1351" height="1199" frameX="-28" frameY="-25" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0006" x="0" y="1219" width="1370" height="1192" frameX="-29" frameY="-33" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0007" x="0" y="1219" width="1370" height="1192" frameX="-29" frameY="-33" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0008" x="1370" y="1219" width="1397" height="1207" frameX="-9" frameY="-20" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0009" x="1370" y="1219" width="1397" height="1207" frameX="-9" frameY="-20" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0010" x="1370" y="1219" width="1397" height="1207" frameX="-9" frameY="-20" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0011" x="1370" y="1219" width="1397" height="1207" frameX="-9" frameY="-20" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0012" x="1370" y="1219" width="1397" height="1207" frameX="-9" frameY="-20" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixIdle0013" x="1370" y="1219" width="1397" height="1207" frameX="-9" frameY="-20" frameWidth="1422" frameHeight="1227"/>
+	<SubTexture name="StixLeftNote0000" x="2767" y="1219" width="1550" height="1297"/>
+	<SubTexture name="StixLeftNote0001" x="2767" y="1219" width="1550" height="1297"/>
+	<SubTexture name="StixLeftNote0002" x="4317" y="1219" width="1495" height="1260" frameX="-46" frameY="-37" frameWidth="1550" frameHeight="1297"/>
+	<SubTexture name="StixLeftNote0003" x="4317" y="1219" width="1495" height="1260" frameX="-46" frameY="-37" frameWidth="1550" frameHeight="1297"/>
+	<SubTexture name="StixLeftNote0004" x="4317" y="1219" width="1495" height="1260" frameX="-46" frameY="-37" frameWidth="1550" frameHeight="1297"/>
+	<SubTexture name="StixLeftNote0005" x="4317" y="1219" width="1495" height="1260" frameX="-46" frameY="-37" frameWidth="1550" frameHeight="1297"/>
+	<SubTexture name="StixRightNote0000" x="5812" y="1219" width="1267" height="1232" frameX="-48" frameY="-40" frameWidth="1353" frameHeight="1272"/>
+	<SubTexture name="StixRightNote0001" x="5812" y="1219" width="1267" height="1232" frameX="-48" frameY="-40" frameWidth="1353" frameHeight="1272"/>
+	<SubTexture name="StixRightNote0002" x="0" y="2516" width="1353" height="1272"/>
+	<SubTexture name="StixRightNote0003" x="0" y="2516" width="1353" height="1272"/>
+	<SubTexture name="StixRightNote0004" x="0" y="2516" width="1353" height="1272"/>
+	<SubTexture name="StixRightNote0005" x="0" y="2516" width="1353" height="1272"/>
+	<SubTexture name="StixRightNote0006" x="0" y="2516" width="1353" height="1272"/>
+	<SubTexture name="StixUpNote0000" x="1353" y="2516" width="1536" height="1192" frameX="0" frameY="0" frameWidth="1546" frameHeight="1201"/>
+	<SubTexture name="StixUpNote0001" x="1353" y="2516" width="1536" height="1192" frameX="0" frameY="0" frameWidth="1546" frameHeight="1201"/>
+	<SubTexture name="StixUpNote0002" x="2889" y="2516" width="1485" height="1172" frameX="-61" frameY="-29" frameWidth="1546" frameHeight="1201"/>
+	<SubTexture name="StixUpNote0003" x="2889" y="2516" width="1485" height="1172" frameX="-61" frameY="-29" frameWidth="1546" frameHeight="1201"/>
+	<SubTexture name="StixUpNote0004" x="2889" y="2516" width="1485" height="1172" frameX="-61" frameY="-29" frameWidth="1546" frameHeight="1201"/>
+	<SubTexture name="StixUpNote0005" x="2889" y="2516" width="1485" height="1172" frameX="-61" frameY="-29" frameWidth="1546" frameHeight="1201"/>
+</TextureAtlas>

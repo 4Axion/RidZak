@@ -1,0 +1,57 @@
+{
+	"storyName": "kys",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Odyssey",
+			"ridzak",
+			[
+				255,
+				33,
+				93
+			]
+		],
+		[
+			"Ouch",
+			"ridzak",
+			[
+				255,
+				33,
+				93
+			]
+		],
+		[
+			"Ego",
+			"ego",
+			[
+				255,
+				33,
+				93
+			]
+		],
+		[
+			"Vibe",
+			"ridzak",
+			[
+				255,
+				33,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

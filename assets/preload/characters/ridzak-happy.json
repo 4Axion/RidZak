@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				69,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RidZakLeftNote"
+		},
+		{
+			"offsets": [
+				107,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RidZakDownNote"
+		},
+		{
+			"offsets": [
+				-17,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RidZakUpNote"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RidZakIdle"
+		},
+		{
+			"offsets": [
+				27,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RidZakRightNote"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RidZakHP",
+	"position": [
+		-70,
+		160
+	],
+	"healthicon": "ridzak",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		0,
+		60
+	],
+	"camera_position": [
+		100,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}

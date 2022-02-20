@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EgoLeftNote"
+		},
+		{
+			"offsets": [
+				-24,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EgoDownNote"
+		},
+		{
+			"offsets": [
+				2,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EgoUpNote"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EgoIdle"
+		},
+		{
+			"offsets": [
+				9,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EgoRightNote"
+		},
+		{
+			"offsets": [
+				130,
+				260
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "intropenis",
+			"loop": false,
+			"name": "EgoTrans"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RidZakEgo",
+	"position": [
+		-100,
+		160
+	],
+	"healthicon": "ego",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		0,
+		60
+	],
+	"camera_position": [
+		140,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 0.77
+}

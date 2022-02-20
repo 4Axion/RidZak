@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cash.m.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownNoteMissed0000" x="4680" y="0" width="1215" height="735" frameX="-84" frameY="0" frameWidth="1299" frameHeight="755"/>
+	<SubTexture name="DownNoteMissed0001" x="5895" y="0" width="1278" height="695" frameX="0" frameY="-47" frameWidth="1299" frameHeight="755"/>
+	<SubTexture name="DownNoteMissed0002" x="0" y="768" width="1262" height="742" frameX="-8" frameY="-13" frameWidth="1299" frameHeight="755"/>
+	<SubTexture name="DownSing0000" x="0" y="0" width="1121" height="768" frameX="-66" frameY="-5" frameWidth="1215" frameHeight="773"/>
+	<SubTexture name="DownSing0001" x="1121" y="0" width="1143" height="768" frameX="-44" frameY="-5" frameWidth="1215" frameHeight="773"/>
+	<SubTexture name="DownSing0002" x="2264" y="0" width="1201" height="744" frameX="-14" frameY="0" frameWidth="1215" frameHeight="773"/>
+	<SubTexture name="DownSing0003" x="2264" y="0" width="1201" height="744" frameX="-14" frameY="0" frameWidth="1215" frameHeight="773"/>
+	<SubTexture name="DownSing0004" x="3465" y="0" width="1215" height="734" frameX="0" frameY="0" frameWidth="1215" frameHeight="773"/>
+	<SubTexture name="DownSing0005" x="3465" y="0" width="1215" height="734" frameX="0" frameY="0" frameWidth="1215" frameHeight="773"/>
+	<SubTexture name="GameOverSt0000" x="1262" y="768" width="1398" height="705" frameX="0" frameY="-21" frameWidth="1398" frameHeight="727"/>
+	<SubTexture name="GameOverSt0001" x="1262" y="768" width="1398" height="705" frameX="0" frameY="-21" frameWidth="1398" frameHeight="727"/>
+	<SubTexture name="GameOverSt0002" x="2660" y="768" width="1379" height="727" frameX="-9" frameY="0" frameWidth="1398" frameHeight="727"/>
+	<SubTexture name="GameOverSt0003" x="4039" y="768" width="1379" height="727" frameX="-9" frameY="0" frameWidth="1398" frameHeight="727"/>
+	<SubTexture name="GameOverSt0004" x="5418" y="768" width="1379" height="727" frameX="-9" frameY="0" frameWidth="1398" frameHeight="727"/>
+	<SubTexture name="GameOverSt0005" x="6797" y="768" width="1379" height="727" frameX="-9" frameY="0" frameWidth="1398" frameHeight="727"/>
+	<SubTexture name="GameOverSelected0000" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-53" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0001" x="1379" y="1510" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0002" x="2758" y="1510" width="1379" height="780"/>
+	<SubTexture name="GameOverSelected0003" x="4137" y="1510" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0004" x="5516" y="1510" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0005" x="5516" y="1510" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0006" x="5516" y="1510" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0007" x="5516" y="1510" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0008" x="0" y="2290" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0009" x="0" y="2290" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0010" x="1379" y="2290" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0011" x="1379" y="2290" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0012" x="2758" y="2290" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0013" x="2758" y="2290" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0014" x="4137" y="2290" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0015" x="5516" y="2290" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0016" x="0" y="3040" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0017" x="1379" y="3040" width="1379" height="750" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0018" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0019" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0020" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0021" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0022" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0023" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0024" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0025" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0026" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0027" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0028" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0029" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0030" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0031" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0032" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverSelected0033" x="0" y="1510" width="1379" height="727" frameX="0" frameY="-30" frameWidth="1379" frameHeight="780"/>
+	<SubTexture name="GameOverWait0000" x="2758" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0001" x="4137" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0002" x="4137" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0003" x="5516" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0004" x="5516" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0005" x="0" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0006" x="0" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0007" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0008" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0009" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0010" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0011" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0012" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0013" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0014" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0015" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0016" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0017" x="2758" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0018" x="4137" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0019" x="4137" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0020" x="5516" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0021" x="5516" y="3040" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0022" x="0" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0023" x="0" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0024" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0025" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0026" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0027" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0028" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0029" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0030" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0031" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0032" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="GameOverWait0033" x="1379" y="3790" width="1379" height="727"/>
+	<SubTexture name="Idle0000" x="6114" y="4563" width="1165" height="925" frameX="0" frameY="-19" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0001" x="6114" y="4563" width="1165" height="925" frameX="0" frameY="-19" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0002" x="0" y="5488" width="1148" height="942" frameX="-7" frameY="-13" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0003" x="0" y="5488" width="1148" height="942" frameX="-7" frameY="-13" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0004" x="1148" y="5488" width="1129" height="945" frameX="-17" frameY="-16" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0005" x="1148" y="5488" width="1129" height="945" frameX="-17" frameY="-16" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0006" x="2277" y="5488" width="1124" height="952" frameX="-22" frameY="-17" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0007" x="2277" y="5488" width="1124" height="952" frameX="-22" frameY="-17" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0008" x="3401" y="5488" width="1123" height="973" frameX="-22" frameY="0" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0009" x="3401" y="5488" width="1123" height="973" frameX="-22" frameY="0" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0010" x="3401" y="5488" width="1123" height="973" frameX="-22" frameY="0" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0011" x="3401" y="5488" width="1123" height="973" frameX="-22" frameY="0" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="Idle0012" x="3401" y="5488" width="1123" height="973" frameX="-22" frameY="0" frameWidth="1165" frameHeight="973"/>
+	<SubTexture name="LeftNoteMissed0000" x="2758" y="3790" width="1290" height="773" frameX="0" frameY="0" frameWidth="1290" frameHeight="783"/>
+	<SubTexture name="LeftNoteMissed0001" x="4048" y="3790" width="1107" height="716" frameX="-18" frameY="-50" frameWidth="1290" frameHeight="783"/>
+	<SubTexture name="LeftNoteMissed0002" x="5155" y="3790" width="1089" height="750" frameX="-27" frameY="-33" frameWidth="1290" frameHeight="783"/>
+	<SubTexture name="LeftSing0000" x="4524" y="5488" width="1262" height="740" frameX="-28" frameY="0" frameWidth="1290" frameHeight="779"/>
+	<SubTexture name="LeftSing0001" x="4524" y="5488" width="1262" height="740" frameX="-28" frameY="0" frameWidth="1290" frameHeight="779"/>
+	<SubTexture name="LeftSing0002" x="2758" y="3790" width="1290" height="773" frameX="0" frameY="-6" frameWidth="1290" frameHeight="783"/>
+	<SubTexture name="LeftSing0003" x="2758" y="3790" width="1290" height="773" frameX="0" frameY="-6" frameWidth="1290" frameHeight="783"/>
+	<SubTexture name="LeftSing0004" x="2758" y="3790" width="1290" height="773" frameX="0" frameY="-6" frameWidth="1290" frameHeight="783"/>
+	<SubTexture name="LeftSing0005" x="2758" y="3790" width="1290" height="773" frameX="0" frameY="-6" frameWidth="1290" frameHeight="783"/>
+	<SubTexture name="RightNoteMissed0000" x="6244" y="3790" width="1327" height="745" frameX="0" frameY="0" frameWidth="1343" frameHeight="806"/>
+	<SubTexture name="RightNoteMissed0001" x="0" y="4563" width="1275" height="753" frameX="-63" frameY="-41" frameWidth="1343" frameHeight="806"/>
+	<SubTexture name="RightNoteMissed0002" x="1275" y="4563" width="1285" height="776" frameX="-58" frameY="-30" frameWidth="1343" frameHeight="806"/>
+	<SubTexture name="RightSing0000" x="5786" y="5488" width="1301" height="747" frameX="-25" frameY="-5" frameWidth="1326" frameHeight="752"/>
+	<SubTexture name="RightSing0001" x="5786" y="5488" width="1301" height="747" frameX="-25" frameY="-5" frameWidth="1326" frameHeight="752"/>
+	<SubTexture name="RightSing0002" x="0" y="6461" width="1326" height="745" frameX="0" frameY="0" frameWidth="1326" frameHeight="752"/>
+	<SubTexture name="RightSing0003" x="0" y="6461" width="1326" height="745" frameX="0" frameY="0" frameWidth="1326" frameHeight="752"/>
+	<SubTexture name="RightSing0004" x="0" y="6461" width="1326" height="745" frameX="0" frameY="0" frameWidth="1326" frameHeight="752"/>
+	<SubTexture name="RightSing0005" x="0" y="6461" width="1326" height="745" frameX="0" frameY="0" frameWidth="1326" frameHeight="752"/>
+	<SubTexture name="UpNoteMissed0000" x="2560" y="4563" width="1257" height="912" frameX="0" frameY="0" frameWidth="1258" frameHeight="912"/>
+	<SubTexture name="UpNoteMissed0001" x="3817" y="4563" width="1156" height="742" frameX="-102" frameY="-44" frameWidth="1258" frameHeight="912"/>
+	<SubTexture name="UpNoteMissed0002" x="4973" y="4563" width="1141" height="755" frameX="-110" frameY="-34" frameWidth="1258" frameHeight="912"/>
+	<SubTexture name="UpSing0000" x="1326" y="6461" width="1244" height="947" frameX="-13" frameY="-5" frameWidth="1257" frameHeight="952"/>
+	<SubTexture name="UpSing0001" x="1326" y="6461" width="1244" height="947" frameX="-13" frameY="-5" frameWidth="1257" frameHeight="952"/>
+	<SubTexture name="UpSing0002" x="2570" y="6461" width="1257" height="911" frameX="0" frameY="0" frameWidth="1257" frameHeight="952"/>
+	<SubTexture name="UpSing0003" x="2570" y="6461" width="1257" height="911" frameX="0" frameY="0" frameWidth="1257" frameHeight="952"/>
+	<SubTexture name="UpSing0004" x="2570" y="6461" width="1257" height="911" frameX="0" frameY="0" frameWidth="1257" frameHeight="952"/>
+	<SubTexture name="UpSing0005" x="2570" y="6461" width="1257" height="911" frameX="0" frameY="0" frameWidth="1257" frameHeight="952"/>
+</TextureAtlas>

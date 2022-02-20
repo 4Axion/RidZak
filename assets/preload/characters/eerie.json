@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EerieIdle"
+		},
+		{
+			"offsets": [
+				16,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EerieSingLeft"
+		},
+		{
+			"offsets": [
+				12,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EerieSingRight"
+		},
+		{
+			"offsets": [
+				-1,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EerieSingDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EeerieSingUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eerie",
+	"position": [
+		60,
+		30
+	],
+	"healthicon": "eerie",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		175,
+		255
+	],
+	"camera_position": [
+		110,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

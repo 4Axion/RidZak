@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BadStixs.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SadDown0000" x="0" y="0" width="898" height="1061" frameX="-86" frameY="-53" frameWidth="984" frameHeight="1115"/>
+	<SubTexture name="SadDown0001" x="0" y="0" width="898" height="1061" frameX="-86" frameY="-53" frameWidth="984" frameHeight="1115"/>
+	<SubTexture name="SadDown0002" x="898" y="0" width="975" height="1115" frameX="0" frameY="0" frameWidth="984" frameHeight="1115"/>
+	<SubTexture name="SadDown0003" x="1873" y="0" width="934" height="1091" frameX="-37" frameY="-23" frameWidth="984" frameHeight="1115"/>
+	<SubTexture name="SadDown0004" x="1873" y="0" width="934" height="1091" frameX="-37" frameY="-23" frameWidth="984" frameHeight="1115"/>
+	<SubTexture name="SadDown0005" x="1873" y="0" width="934" height="1091" frameX="-37" frameY="-23" frameWidth="984" frameHeight="1115"/>
+	<SubTexture name="SadIdle0000" x="2807" y="0" width="1098" height="1058" frameX="0" frameY="-12" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0001" x="2807" y="0" width="1098" height="1058" frameX="0" frameY="-12" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0002" x="3905" y="0" width="1016" height="1070" frameX="-27" frameY="0" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0003" x="3905" y="0" width="1016" height="1070" frameX="-27" frameY="0" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0004" x="4921" y="0" width="971" height="1046" frameX="-29" frameY="-24" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0005" x="4921" y="0" width="971" height="1046" frameX="-29" frameY="-24" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0006" x="5892" y="0" width="929" height="1024" frameX="-32" frameY="-47" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0007" x="5892" y="0" width="929" height="1024" frameX="-32" frameY="-47" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0008" x="6821" y="0" width="891" height="1002" frameX="-37" frameY="-69" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0009" x="6821" y="0" width="891" height="1002" frameX="-37" frameY="-69" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0010" x="6821" y="0" width="891" height="1002" frameX="-37" frameY="-69" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0011" x="6821" y="0" width="891" height="1002" frameX="-37" frameY="-69" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0012" x="6821" y="0" width="891" height="1002" frameX="-37" frameY="-69" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadIdle0013" x="6821" y="0" width="891" height="1002" frameX="-37" frameY="-69" frameWidth="1098" frameHeight="1071"/>
+	<SubTexture name="SadLeft0000" x="0" y="1115" width="980" height="1016" frameX="-10" frameY="-59" frameWidth="999" frameHeight="1075"/>
+	<SubTexture name="SadLeft0001" x="0" y="1115" width="980" height="1016" frameX="-10" frameY="-59" frameWidth="999" frameHeight="1075"/>
+	<SubTexture name="SadLeft0002" x="980" y="1115" width="999" height="983" frameX="0" frameY="0" frameWidth="999" frameHeight="1075"/>
+	<SubTexture name="SadLeft0003" x="1979" y="1115" width="964" height="952" frameX="-29" frameY="-85" frameWidth="999" frameHeight="1075"/>
+	<SubTexture name="SadLeft0004" x="1979" y="1115" width="964" height="952" frameX="-29" frameY="-85" frameWidth="999" frameHeight="1075"/>
+	<SubTexture name="SadLeft0005" x="1979" y="1115" width="964" height="952" frameX="-29" frameY="-85" frameWidth="999" frameHeight="1075"/>
+	<SubTexture name="SadRight0000" x="2943" y="1115" width="941" height="956" frameX="-22" frameY="0" frameWidth="963" frameHeight="956"/>
+	<SubTexture name="SadRight0001" x="2943" y="1115" width="941" height="956" frameX="-22" frameY="0" frameWidth="963" frameHeight="956"/>
+	<SubTexture name="SadRight0002" x="3884" y="1115" width="906" height="940" frameX="-24" frameY="-16" frameWidth="963" frameHeight="956"/>
+	<SubTexture name="SadRight0003" x="4790" y="1115" width="926" height="954" frameX="0" frameY="-2" frameWidth="963" frameHeight="956"/>
+	<SubTexture name="SadRight0004" x="4790" y="1115" width="926" height="954" frameX="0" frameY="-2" frameWidth="963" frameHeight="956"/>
+	<SubTexture name="SadRight0005" x="4790" y="1115" width="926" height="954" frameX="0" frameY="-2" frameWidth="963" frameHeight="956"/>
+	<SubTexture name="SadRight0006" x="4790" y="1115" width="926" height="954" frameX="0" frameY="-2" frameWidth="963" frameHeight="956"/>
+	<SubTexture name="SadUp0000" x="5716" y="1115" width="1181" height="1161" frameX="0" frameY="-26" frameWidth="1181" frameHeight="1203"/>
+	<SubTexture name="SadUp0001" x="5716" y="1115" width="1181" height="1161" frameX="0" frameY="-26" frameWidth="1181" frameHeight="1203"/>
+	<SubTexture name="SadUp0002" x="6897" y="1115" width="1145" height="1189" frameX="-18" frameY="-5" frameWidth="1181" frameHeight="1203"/>
+	<SubTexture name="SadUp0003" x="0" y="2304" width="1157" height="1203" frameX="-4" frameY="0" frameWidth="1181" frameHeight="1203"/>
+	<SubTexture name="SadUp0004" x="0" y="2304" width="1157" height="1203" frameX="-4" frameY="0" frameWidth="1181" frameHeight="1203"/>
+	<SubTexture name="SadUp0005" x="0" y="2304" width="1157" height="1203" frameX="-4" frameY="0" frameWidth="1181" frameHeight="1203"/>
+</TextureAtlas>

@@ -1,0 +1,48 @@
+{
+	"storyName": "kys",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Phantom",
+			"cybbr",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Orbit",
+			"cybbr",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rad",
+			"cybbrGold",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

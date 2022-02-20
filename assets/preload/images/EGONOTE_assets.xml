@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EgoNotes.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="197" height="178" frameX="-7" frameY="-7" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="blue0001" x="197" y="0" width="224" height="183" frameX="0" frameY="0" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="blue0002" x="421" y="0" width="186" height="181" frameX="-10" frameY="-2" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="blue hold end0000" x="607" y="0" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="657" y="0" width="50" height="44"/>
+	<SubTexture name="green0000" x="707" y="0" width="197" height="178" frameX="-7" frameY="0" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="green0001" x="0" y="183" width="224" height="183" frameX="0" frameY="-2" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="green0002" x="224" y="183" width="186" height="180" frameX="-10" frameY="-2" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="green hold end0000" x="410" y="183" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="460" y="183" width="50" height="44"/>
+	<SubTexture name="pruple end hold0000" x="510" y="183" width="50" height="64"/>
+	<SubTexture name="purple0000" x="560" y="183" width="188" height="187" frameX="-11" frameY="-2" frameWidth="224" frameHeight="189"/>
+	<SubTexture name="purple0001" x="197" y="0" width="224" height="183" frameX="0" frameY="0" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="purple0002" x="421" y="0" width="186" height="181" frameX="-10" frameY="-2" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="purple hold piece0000" x="748" y="183" width="50" height="44"/>
+	<SubTexture name="red0000" x="798" y="183" width="188" height="187" frameX="-11" frameY="-2" frameWidth="224" frameHeight="189"/>
+	<SubTexture name="red0001" x="197" y="0" width="224" height="183" frameX="0" frameY="0" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="red0002" x="421" y="0" width="186" height="181" frameX="-10" frameY="-2" frameWidth="224" frameHeight="185"/>
+	<SubTexture name="red hold end0000" x="0" y="370" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="50" y="370" width="50" height="44"/>
+</TextureAtlas>

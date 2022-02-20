@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				105,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				130,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftSing"
+		},
+		{
+			"offsets": [
+				110,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpSing"
+		},
+		{
+			"offsets": [
+				127,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LeftNote"
+		},
+		{
+			"offsets": [
+				88,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DownNote"
+		},
+		{
+			"offsets": [
+				111,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UpNote"
+		},
+		{
+			"offsets": [
+				104,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RightNote"
+		},
+		{
+			"offsets": [
+				51,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "GameOverSt"
+		},
+		{
+			"offsets": [
+				46,
+				9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GameOverWait"
+		},
+		{
+			"offsets": [
+				46,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GameOverSelected"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MinusRidZak",
+	"position": [
+		80,
+		300
+	],
+	"healthicon": "minus",
+	"flip_x": true,
+	"healthbar_colors": [
+		213,
+		0,
+		60
+	],
+	"camera_position": [
+		190,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.05
+}

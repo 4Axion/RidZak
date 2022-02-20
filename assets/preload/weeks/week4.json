@@ -1,0 +1,43 @@
+{
+	"storyName": "RED SNOW",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cheer",
+			"stixs",
+			[
+				100,
+				255,
+				195
+			]
+		],
+		[
+			"Clowntown",
+			"stixs",
+			[
+				100,
+				255,
+				195
+			]
+		],
+		[
+			"SAD",
+			"stixs-bad",
+			[
+				100,
+				195,
+				95
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}

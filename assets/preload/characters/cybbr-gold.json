@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GoldLeftNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GoldRightNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-96
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GoldDownNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GoldUpNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GoldIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				295
+			],
+			"anim": "penis",
+			"fps": 24,
+			"name": "GoldTransform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CybbrGold",
+	"position": [
+		70,
+		50
+	],
+	"healthicon": "cybbrGold",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		226,
+		240
+	],
+	"camera_position": [
+		240,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-22,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftNote"
+		},
+		{
+			"offsets": [
+				64,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownNote"
+		},
+		{
+			"offsets": [
+				19,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpNote"
+		},
+		{
+			"offsets": [
+				1,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-90,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightNote"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dick",
+	"position": [
+		-290,
+		-90
+	],
+	"healthicon": "penis-fart",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		40,
+		0
+	],
+	"camera_position": [
+		610,
+		400
+	],
+	"sing_duration": 4,
+	"scale": 0.37
+}

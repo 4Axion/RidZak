@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dif.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="def0000" x="0" y="0" width="299" height="161" frameX="-32" frameY="-12" frameWidth="384" frameHeight="173"/>
+	<SubTexture name="def0001" x="0" y="161" width="384" height="164" frameX="0" frameY="-5" frameWidth="384" frameHeight="173"/>
+	<SubTexture name="def0002" x="0" y="325" width="240" height="173" frameX="-53" frameY="0" frameWidth="384" frameHeight="173"/>
+</TextureAtlas>

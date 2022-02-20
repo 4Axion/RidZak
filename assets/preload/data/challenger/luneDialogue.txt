@@ -1,0 +1,30 @@
+aloe:Don't you remember the songs you played on the balcony??
+aloeembarrassed:You were quite good at them, even if mistakes were made.
+aloe:You never saw a need to be perfect, Mint.
+switch:2
+aloe:That's why you mean so much to me.
+aloe:There was never such need for predictability when the five of us were simply the opposite.
+aloe:All of us are precious to each other
+aloe:and the fact we have broken away from our templates several times...
+aloe:It always leaves a bit of hope in me.
+switch:3
+aloeworry:So... Won't you remember, for me? 
+aloeworry:I-I know those strings of yours are carving holes into your thoughts...
+aloeembarrassed:(P-Perhaps you don't realize how much this tires me, either,)
+aloeworry:But it hasn't been long since we've been separate. You can still get out of this!
+aloeworry:All of us believe in you...
+switch:10
+mintsmile:R-...Remember? Y-You...want me to...remember?
+mint: Hah...
+mint:Hahahahahaha!!!
+switch:4
+mint:I already know all I must! 
+mint:These fellow husks follow our cries, and soon, you will help conduct them too!
+mint:Isn't that just splendid? I know you missed killing off those who misbehaved~!
+mint:They will fall perfectly in line 
+mint:and make sure none of us are rudely the reason for this show getting cancelled!
+mint:It shall last forever, and we will be its permanent guests! 
+mint:The audience will be enthralled for the rest of time!
+mintsmile:And us... Our legacy will last forevermore.
+aloe:Y-You...don't remember...
+aloecry:WH-WHY WON'T YOU REMEMBER?

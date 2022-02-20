@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				43,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftNote"
+		},
+		{
+			"offsets": [
+				204,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownNote"
+		},
+		{
+			"offsets": [
+				9,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpNote"
+		},
+		{
+			"offsets": [
+				1,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				24,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightNote"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bret",
+	"position": [
+		-70,
+		90
+	],
+	"healthicon": "bret",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		235,
+		140
+	],
+	"camera_position": [
+		60,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.87
+}

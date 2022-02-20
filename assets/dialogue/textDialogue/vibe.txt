@@ -1,0 +1,19 @@
+:no_portait:1: This isn't over! I still have enough energy to take you do-
+:no_portait:2:.
+:no_portait:3: uhhh , what happened?
+:no_portait:3: I guess we should... leave? 
+:no_portait:4:.
+:no_portait:5:.
+:no_portait:6: RidZak? Why are you just chilling along the side of the road?
+:no_portait:7: B-Bret?
+:no_portait:8: Bro , what happened? 
+:no_portait:9: I screwed up again. I let my ego get to me again... I-i
+:no_portait:10: RidZak , just tell me who they are, and i'll set a time and location for you to apologize to them.
+:no_portait:10: I can always trust you Bret.
+:no_portait:11:.
+:no_portait:12:.
+:no_portait:13:.
+:RidZak_sorry:-1: Hey , I came to apologize.
+:RidZak_sorry:-1: I got a bit over my head. I sometimes get egotistic.
+:Bf_Normal:-1: Beep! 
+:RidZak_smile:-1: Another song to patch things up? As friends? I would like that

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RidZakEgonew.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EgoDownNote0000" x="0" y="0" width="600" height="621" frameX="0" frameY="-16" frameWidth="600" frameHeight="640"/>
+	<SubTexture name="EgoDownNote0001" x="0" y="0" width="600" height="621" frameX="0" frameY="-16" frameWidth="600" frameHeight="640"/>
+	<SubTexture name="EgoDownNote0002" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0003" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0004" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0005" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0006" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0007" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0008" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0009" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0010" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0011" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0012" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0013" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoDownNote0014" x="600" y="0" width="600" height="640"/>
+	<SubTexture name="EgoIdle0000" x="1200" y="0" width="613" height="722" frameX="0" frameY="-19" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0001" x="1200" y="0" width="613" height="722" frameX="0" frameY="-19" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0002" x="1813" y="0" width="594" height="723" frameX="-10" frameY="-20" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0003" x="1813" y="0" width="594" height="723" frameX="-10" frameY="-20" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0004" x="2407" y="0" width="601" height="729" frameX="-6" frameY="-14" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0005" x="2407" y="0" width="601" height="729" frameX="-6" frameY="-14" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0006" x="3008" y="0" width="601" height="740" frameX="-6" frameY="-3" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0007" x="3609" y="0" width="601" height="728" frameX="-6" frameY="-15" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0008" x="4210" y="0" width="601" height="743" frameX="-6" frameY="0" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0009" x="4210" y="0" width="601" height="743" frameX="-6" frameY="0" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0010" x="4210" y="0" width="601" height="743" frameX="-6" frameY="0" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0011" x="4210" y="0" width="601" height="743" frameX="-6" frameY="0" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoIdle0012" x="4210" y="0" width="601" height="743" frameX="-6" frameY="0" frameWidth="613" frameHeight="743"/>
+	<SubTexture name="EgoLeftNote0000" x="4811" y="0" width="616" height="619" frameX="-23" frameY="-18" frameWidth="651" frameHeight="637"/>
+	<SubTexture name="EgoLeftNote0001" x="4811" y="0" width="616" height="619" frameX="-23" frameY="-18" frameWidth="651" frameHeight="637"/>
+	<SubTexture name="EgoLeftNote0002" x="5427" y="0" width="638" height="628" frameX="-7" frameY="-9" frameWidth="651" frameHeight="637"/>
+	<SubTexture name="EgoLeftNote0003" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0004" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0005" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0006" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0007" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0008" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0009" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0010" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0011" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0012" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0013" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0014" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0015" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0016" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0017" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0018" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoLeftNote0019" x="6065" y="0" width="651" height="637"/>
+	<SubTexture name="EgoRightNote0000" x="6716" y="0" width="717" height="623" frameX="-25" frameY="-23" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0001" x="6716" y="0" width="717" height="623" frameX="-25" frameY="-23" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0002" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0003" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0004" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0005" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0006" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0007" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0008" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0009" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0010" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0011" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0012" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0013" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0014" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0015" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0016" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0017" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0018" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoRightNote0019" x="7433" y="0" width="741" height="646" frameX="0" frameY="0" frameWidth="742" frameHeight="646"/>
+	<SubTexture name="EgoTransForm0000" x="0" y="743" width="622" height="668" frameX="-216" frameY="-342" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0001" x="0" y="743" width="622" height="668" frameX="-216" frameY="-342" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0002" x="622" y="743" width="638" height="657" frameX="-235" frameY="-353" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0003" x="622" y="743" width="638" height="657" frameX="-235" frameY="-353" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0004" x="1260" y="743" width="643" height="643" frameX="-256" frameY="-366" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0005" x="1260" y="743" width="643" height="643" frameX="-256" frameY="-366" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0006" x="1903" y="743" width="649" height="647" frameX="-247" frameY="-363" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0007" x="2552" y="743" width="670" height="663" frameX="-246" frameY="-347" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0008" x="3222" y="743" width="653" height="668" frameX="-245" frameY="-342" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0009" x="3875" y="743" width="620" height="855" frameX="-245" frameY="-155" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0010" x="4495" y="743" width="607" height="1010" frameX="-245" frameY="0" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0011" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0012" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0013" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0014" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0015" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0016" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0017" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0018" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0019" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0020" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0021" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0022" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0023" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0024" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0025" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0026" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0027" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0028" x="5102" y="743" width="592" height="665" frameX="-245" frameY="-345" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0029" x="4495" y="743" width="607" height="1010" frameX="-245" frameY="0" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0030" x="3875" y="743" width="620" height="855" frameX="-245" frameY="-155" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0031" x="5694" y="743" width="653" height="668" frameX="-245" frameY="-342" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0032" x="6347" y="743" width="546" height="655" frameX="-259" frameY="-355" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0033" x="6893" y="743" width="539" height="639" frameX="-259" frameY="-370" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0034" x="7432" y="743" width="516" height="628" frameX="-279" frameY="-381" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0035" x="0" y="1753" width="528" height="640" frameX="-269" frameY="-370" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0036" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0037" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0038" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0039" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0040" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0041" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0042" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0043" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0044" x="528" y="1753" width="550" height="652" frameX="-247" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0045" x="1078" y="1753" width="503" height="652" frameX="-254" frameY="-358" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0046" x="1581" y="1753" width="454" height="687" frameX="-270" frameY="-323" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0047" x="2035" y="1753" width="459" height="633" frameX="-273" frameY="-377" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0048" x="2494" y="1753" width="743" height="775" frameX="-154" frameY="-235" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0049" x="2494" y="1753" width="743" height="775" frameX="-154" frameY="-235" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0050" x="3237" y="1753" width="912" height="864" frameX="0" frameY="-167" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0051" x="4149" y="1753" width="912" height="864" frameX="0" frameY="-167" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0052" x="5061" y="1753" width="647" height="698" frameX="-210" frameY="-312" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0053" x="5708" y="1753" width="647" height="698" frameX="-210" frameY="-312" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0054" x="6355" y="1753" width="833" height="698" frameX="-117" frameY="-312" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0055" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0056" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0057" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0058" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0059" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0060" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0061" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0062" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0063" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0064" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0065" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0066" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0067" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0068" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0069" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0070" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0071" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0072" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0073" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0074" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0075" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0076" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0077" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0078" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0079" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0080" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0081" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0082" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0083" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0084" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0085" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0086" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0087" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0088" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoTransForm0089" x="7188" y="1753" width="457" height="648" frameX="-240" frameY="-362" frameWidth="950" frameHeight="1031"/>
+	<SubTexture name="EgoUpNote0000" x="0" y="2617" width="579" height="770" frameX="-17" frameY="0" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0001" x="0" y="2617" width="579" height="770" frameX="-17" frameY="0" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0002" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0003" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0004" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0005" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0006" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0007" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0008" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0009" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0010" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0011" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0012" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0013" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0014" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0015" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0016" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0017" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0018" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+	<SubTexture name="EgoUpNote0019" x="579" y="2617" width="602" height="761" frameX="0" frameY="-7" frameWidth="602" frameHeight="770"/>
+</TextureAtlas>

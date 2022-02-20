@@ -1,0 +1,6 @@
+right:RidZak... did you do it?
+left:No...
+right:...
+right:Alright.
+right:Just bring them to the club.
+right:I'll take care of them.

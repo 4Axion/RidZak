@@ -1,0 +1,22 @@
+:no_portait:1: Boyfriend, I got a job for you!
+:no_portait:1: I am gonna need you to head over to a city called "Club City"
+:no_portait:1: And try to attract as much attention as possible! 
+:no_portait:2: It's gonna piss off that old man Cash.M So much!
+:no_portait:2: Also make sure to bring my daughter along!
+:no_portait:2: Good Luck. 
+:no_portait:3:.
+:no_portait:4:.
+:no_portait:5: RIDZAK!!!
+:no_portait:6: RIDZAK WE GOT A PROBLEM!!
+:no_portait:7: There are two little idiots running around my city! 
+:no_portait:7: Driving attention and money away from the club! Go kick them out of the city! 
+:no_portait:8: Don't worry boss. I got this!
+:no_portait:9: These two aint normal RidZ!
+:no_portait:9: They know what they are doin! 
+:no_portait:9: That's why they are such a big threat! 
+:no_portait:10: Just take this. If the worst case scenario happens.
+:no_portait:11: Won't be Needing it. No stress at all Cash.M
+:no_portait:12:.
+:RidZak_Normal:-1: Heard you two where pretty good!
+:RidZak_Hyped:-1: I wanna test that! Give me your best bf!
+:Bf_Normal:-1: Beep!

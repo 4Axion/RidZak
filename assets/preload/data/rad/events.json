@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "club",
+		"player1": "bf",
+		"player2": "cybbr-gold",
+		"player3": null,
+		"events": [
+			[
+				11294.1176470588,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"gf"
+					]
+				]
+			],
+			[
+				56647.0588235294,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"gf"
+					]
+				]
+			],
+			[
+				79147.0588235293,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfg"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfg"
+					],
+					[
+						"Change Character",
+						"dad",
+						"cybbrg"
+					]
+				]
+			],
+			[
+				84352.9411764705,
+				[
+					[
+						"FUCK YOU NO BLAMMED LIGHTS",
+						"fake blammed lights",
+						"kys"
+					]
+				]
+			],
+			[
+				84970.588235294,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"gf"
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"FUCK YOU NO BLAMMED LIGHTS",
+						"turn on",
+						""
+					]
+				]
+			],
+			[
+				124588.235294117,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"gf"
+					]
+				]
+			],
+			[
+				136919.117647059,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cybbrg"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "CYBgf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "rad"
+	}
+}

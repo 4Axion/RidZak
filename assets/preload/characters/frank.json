@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-22,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftNote"
+		},
+		{
+			"offsets": [
+				-49,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownNote"
+		},
+		{
+			"offsets": [
+				-70,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpNote"
+		},
+		{
+			"offsets": [
+				-62,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-99,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightNote"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Frank",
+	"position": [
+		-1310,
+		-310
+	],
+	"healthicon": "penis-fart",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		40,
+		0
+	],
+	"camera_position": [
+		900,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 0.37
+}

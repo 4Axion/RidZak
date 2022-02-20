@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MiynoLeftNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MiynoRightNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MiynoDownNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MiynoUpNote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MiynoIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MeLol",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "miyno",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		50,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.55
+}

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				33,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GameOverWait",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				20
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "GameOverSelected",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftNote0"
+		},
+		{
+			"offsets": [
+				102,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpNote0"
+		},
+		{
+			"offsets": [
+				-19,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightNote0"
+		},
+		{
+			"offsets": [
+				-30,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownNote0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-28
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LeftNoteM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				38
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UpNoteM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RightNoteM",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-32,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DownNotem"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-1
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "GameOver0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AlphaZak",
+	"position": [
+		-70,
+		180
+	],
+	"healthicon": "alpha",
+	"flip_x": true,
+	"healthbar_colors": [
+		134,
+		188,
+		255
+	],
+	"camera_position": [
+		-70,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

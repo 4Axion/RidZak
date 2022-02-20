@@ -1,0 +1,17 @@
+right:Listen RidZak! We got a big problem here!
+switch:2
+right:There is some kid running around in MY city, named "boyfriend".
+right:GET HIM OUT! He is bad news for business!
+right:I don't want him to take away any attention from the club!
+switch:3
+right:But I heard he is pretty good at what he does, so if you can't beat him, use this. 
+switch:99
+left:I wont be needing it, trust me. I can finish him in one round.
+right:If you say so... now go break a leg.
+switch:5
+left:...
+nobg:fuckyou
+ridzak:Word on the street's that you're a pretty good rapper,
+ridzak:I would like to test that.
+bf:Beep.
+ridzak:Give me your best, Boyfriend! Don't hold back. 

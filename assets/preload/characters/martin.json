@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				290,
+				62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				99,
+				218
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				272,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				91,
+				59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cabello",
+	"position": [
+		640,
+		20
+	],
+	"healthicon": "martin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		88,
+		0
+	],
+	"camera_position": [
+		30,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

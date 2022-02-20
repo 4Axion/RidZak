@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FANZ.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="2017" height="577" frameX="0" frameY="-37" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10001" x="0" y="0" width="2017" height="577" frameX="0" frameY="-37" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10002" x="2017" y="0" width="1998" height="590" frameX="-9" frameY="-25" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10003" x="2017" y="0" width="1998" height="590" frameX="-9" frameY="-25" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10004" x="0" y="590" width="1965" height="600" frameX="-25" frameY="-15" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10005" x="0" y="590" width="1965" height="600" frameX="-25" frameY="-15" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10006" x="1965" y="590" width="1926" height="615" frameX="-44" frameY="0" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10007" x="1965" y="590" width="1926" height="615" frameX="-44" frameY="0" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10008" x="1965" y="590" width="1926" height="615" frameX="-44" frameY="0" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10009" x="1965" y="590" width="1926" height="615" frameX="-44" frameY="0" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10010" x="1965" y="590" width="1926" height="615" frameX="-44" frameY="0" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10011" x="1965" y="590" width="1926" height="615" frameX="-44" frameY="0" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10012" x="1965" y="590" width="1926" height="615" frameX="-44" frameY="0" frameWidth="2017" frameHeight="615"/>
+	<SubTexture name="Symbol 10013" x="1965" y="590" width="1926" height="615" frameX="-44" frameY="0" frameWidth="2017" frameHeight="615"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vamp.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="206" height="162"/>
+	<SubTexture name="blue hold end0000" x="206" y="0" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="256" y="0" width="50" height="44"/>
+	<SubTexture name="green0000" x="306" y="0" width="206" height="163"/>
+	<SubTexture name="green hold end0000" x="512" y="0" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="562" y="0" width="50" height="44"/>
+	<SubTexture name="pruple end hold0000" x="612" y="0" width="50" height="64"/>
+	<SubTexture name="purple0000" x="662" y="0" width="162" height="205"/>
+	<SubTexture name="purple hold piece0000" x="824" y="0" width="50" height="44"/>
+	<SubTexture name="red0000" x="0" y="205" width="163" height="206"/>
+	<SubTexture name="red hold end0000" x="163" y="205" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="213" y="205" width="50" height="44"/>
+</TextureAtlas>

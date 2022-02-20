@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RidZakButHappy.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RidZakDownNote0000" x="0" y="0" width="579" height="558" frameX="0" frameY="-22" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakDownNote0001" x="0" y="0" width="579" height="558" frameX="0" frameY="-22" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakDownNote0002" x="579" y="0" width="593" height="569" frameX="-20" frameY="-11" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakDownNote0003" x="579" y="0" width="593" height="569" frameX="-20" frameY="-11" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakDownNote0004" x="1172" y="0" width="587" height="580" frameX="-46" frameY="0" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakDownNote0005" x="1172" y="0" width="587" height="580" frameX="-46" frameY="0" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakDownNote0006" x="1759" y="0" width="593" height="567" frameX="-30" frameY="-13" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakDownNote0007" x="1759" y="0" width="593" height="567" frameX="-30" frameY="-13" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakDownNote0008" x="1759" y="0" width="593" height="567" frameX="-30" frameY="-13" frameWidth="633" frameHeight="580"/>
+	<SubTexture name="RidZakIdle0000" x="2352" y="0" width="489" height="677" frameX="-3" frameY="-4" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0001" x="2352" y="0" width="489" height="677" frameX="-3" frameY="-4" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0002" x="2841" y="0" width="482" height="679" frameX="-6" frameY="-2" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0003" x="2841" y="0" width="482" height="679" frameX="-6" frameY="-2" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0004" x="3323" y="0" width="482" height="679" frameX="-3" frameY="-2" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0005" x="3323" y="0" width="482" height="679" frameX="-3" frameY="-2" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0006" x="0" y="679" width="481" height="681" frameX="0" frameY="0" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0007" x="0" y="679" width="481" height="681" frameX="0" frameY="0" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0008" x="0" y="679" width="481" height="681" frameX="0" frameY="0" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0009" x="0" y="679" width="481" height="681" frameX="0" frameY="0" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0010" x="0" y="679" width="481" height="681" frameX="0" frameY="0" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0011" x="0" y="679" width="481" height="681" frameX="0" frameY="0" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakIdle0012" x="0" y="679" width="481" height="681" frameX="0" frameY="0" frameWidth="492" frameHeight="681"/>
+	<SubTexture name="RidZakLeftNote0000" x="481" y="679" width="541" height="680" frameX="-10" frameY="0" frameWidth="559" frameHeight="680"/>
+	<SubTexture name="RidZakLeftNote0001" x="481" y="679" width="541" height="680" frameX="-10" frameY="0" frameWidth="559" frameHeight="680"/>
+	<SubTexture name="RidZakLeftNote0002" x="1022" y="679" width="547" height="676" frameX="-12" frameY="-4" frameWidth="559" frameHeight="680"/>
+	<SubTexture name="RidZakLeftNote0003" x="1022" y="679" width="547" height="676" frameX="-12" frameY="-4" frameWidth="559" frameHeight="680"/>
+	<SubTexture name="RidZakLeftNote0004" x="1569" y="679" width="553" height="674" frameX="-4" frameY="-6" frameWidth="559" frameHeight="680"/>
+	<SubTexture name="RidZakLeftNote0005" x="1569" y="679" width="553" height="674" frameX="-4" frameY="-6" frameWidth="559" frameHeight="680"/>
+	<SubTexture name="RidZakLeftNote0006" x="2122" y="679" width="554" height="678" frameX="0" frameY="-2" frameWidth="559" frameHeight="680"/>
+	<SubTexture name="RidZakLeftNote0007" x="2122" y="679" width="554" height="678" frameX="0" frameY="-2" frameWidth="559" frameHeight="680"/>
+	<SubTexture name="RidZakRightNote0000" x="2676" y="679" width="619" height="676" frameX="0" frameY="-15" frameWidth="661" frameHeight="691"/>
+	<SubTexture name="RidZakRightNote0001" x="2676" y="679" width="619" height="676" frameX="0" frameY="-15" frameWidth="661" frameHeight="691"/>
+	<SubTexture name="RidZakRightNote0002" x="3295" y="679" width="646" height="683" frameX="-7" frameY="-8" frameWidth="661" frameHeight="691"/>
+	<SubTexture name="RidZakRightNote0003" x="3295" y="679" width="646" height="683" frameX="-7" frameY="-8" frameWidth="661" frameHeight="691"/>
+	<SubTexture name="RidZakRightNote0004" x="0" y="1362" width="610" height="691" frameX="-51" frameY="0" frameWidth="661" frameHeight="691"/>
+	<SubTexture name="RidZakRightNote0005" x="0" y="1362" width="610" height="691" frameX="-51" frameY="0" frameWidth="661" frameHeight="691"/>
+	<SubTexture name="RidZakRightNote0006" x="610" y="1362" width="616" height="679" frameX="-39" frameY="-12" frameWidth="661" frameHeight="691"/>
+	<SubTexture name="RidZakRightNote0007" x="610" y="1362" width="616" height="679" frameX="-39" frameY="-12" frameWidth="661" frameHeight="691"/>
+	<SubTexture name="RidZakUpNote0000" x="1226" y="1362" width="572" height="653" frameX="0" frameY="-8" frameWidth="572" frameHeight="661"/>
+	<SubTexture name="RidZakUpNote0001" x="1226" y="1362" width="572" height="653" frameX="0" frameY="-8" frameWidth="572" frameHeight="661"/>
+	<SubTexture name="RidZakUpNote0002" x="1798" y="1362" width="565" height="656" frameX="-5" frameY="-5" frameWidth="572" frameHeight="661"/>
+	<SubTexture name="RidZakUpNote0003" x="1798" y="1362" width="565" height="656" frameX="-5" frameY="-5" frameWidth="572" frameHeight="661"/>
+	<SubTexture name="RidZakUpNote0004" x="2363" y="1362" width="559" height="661" frameX="-5" frameY="0" frameWidth="572" frameHeight="661"/>
+	<SubTexture name="RidZakUpNote0005" x="2363" y="1362" width="559" height="661" frameX="-5" frameY="0" frameWidth="572" frameHeight="661"/>
+	<SubTexture name="RidZakUpNote0006" x="2922" y="1362" width="564" height="659" frameX="0" frameY="-2" frameWidth="572" frameHeight="661"/>
+	<SubTexture name="RidZakUpNote0007" x="2922" y="1362" width="564" height="659" frameX="0" frameY="-2" frameWidth="572" frameHeight="661"/>
+</TextureAtlas>
